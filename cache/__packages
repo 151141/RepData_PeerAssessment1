@@ -1,0 +1,12 @@
+base
+MASS
+HistData
+lattice
+survival
+Formula
+ggplot2
+Hmisc
+UsingR
+knitr
+reshape
+reshape2
